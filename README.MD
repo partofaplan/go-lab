@@ -1,1 +1,1 @@
-# This repo is for me to lab out whilen I'm learning Golang.
+# This repo is for me to lab out while I'm learning Golang.
